@@ -1,6 +1,6 @@
 /*
 
-Areeb Jamili, ajami7, 669950568
+
 Lab 3 - Scrolling Output
 This code is supposed to scroll through any string in the quote[] variable while displaying my name in the center of the top row
 I assumed the schematic I found online for the 16 pin lcd would work. I also assumed the components from my kit would work as intended.
